@@ -1,0 +1,10 @@
+#header-nav{ 
+  background-color: #808080;
+  border-radius: 0;
+  border-color: #101010;
+  font-size: 32px;
+}
+
+div.navbar-brand {
+	text-align: center;
+}
