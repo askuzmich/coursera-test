@@ -1,10 +1,39 @@
+* {
+	box-sizing: border-box;
+}
+
 #header-nav{ 
-  background-color: #808080;
+  background-color: #999999;
   border-radius: 0;
   border-color: #101010;
   font-size: 32px;
+  color: #000000;
+  text-align: left;
 }
 
-div.navbar-brand {
+.navbar-header{
+	text-align: left;
+}
+
+div.navbar-brand h1{
+	margin: 0; 
+	color: #000000;
+}
+
+p {
+	text-align: left;
+}
+
+/*h2 {
 	text-align: center;
+}*/
+
+.menuitem {
+	background-color: #999999;
+}
+
+.item {
+	background-color: #FFFFFF;
+	border: 1px;
+	border-color: #101010;
 }
